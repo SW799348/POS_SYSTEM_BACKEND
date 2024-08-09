@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS webPos;
+CREATE DATABASE IF NOT EXISTS burgerShop;
 
-USE webPos;
+USE burgerShop;
 
 CREATE TABLE customer (
                           customerId VARCHAR(30) PRIMARY KEY,
