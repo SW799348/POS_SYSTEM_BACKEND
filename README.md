@@ -16,6 +16,7 @@ Order Management: Handle customer orders, including order creation and history t
 Transaction Handling: Secure and reliable transaction management with MySQL.
 
 AJAX Integration: Supports dynamic communication between the frontend and backend.
+
 ## Technologies Used
 
 Java EE: Backend framework.
@@ -37,6 +38,11 @@ Maven for dependency management
 ## API Documentation
 
 https://documenter.getpostman.com/view/35384895/2sA3s3GB1J
+
+## Frontend Link
+
+https://github.com/SW799348/IT-POS-system-frontend
+
 ## Usage
 
 Frontend Integration: The frontend communicates with these API endpoints via AJAX.
